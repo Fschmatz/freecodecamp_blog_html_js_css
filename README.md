@@ -4,3 +4,4 @@ Criado no curso <a href="https://www.youtube.com/watch?v=Aj7HLsJenVg">Frontend D
 - Local Storage
 - Temas
 - Animações
+- Swiper
